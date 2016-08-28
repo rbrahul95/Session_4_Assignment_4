@@ -1,15 +1,12 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+Print reverse of a given String value.
+
  */
 package acadglid;
 
 import java.util.Scanner;
 
-/**
- *
- * @author My
- */
+//Problem 4
 public class Session_4_Assignment_4 {
     public static void main(String args[])
    {
